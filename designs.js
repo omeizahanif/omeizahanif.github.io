@@ -23,6 +23,7 @@
     
     /*core functions*/
     function makeGrid(){
+        resetCanvas();
         let row = '', cell = '';
         //create rows repeatedly using a loop
         for(let i = 0; i < setHeight.value; i++){
