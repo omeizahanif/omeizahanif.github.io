@@ -12,13 +12,13 @@ This is a single-page web app, and hence requires no installation.
 
 ## Deployment
 
-This app has already been hosted on GitHub. To run, click on [this](https://omeizahanif.github.io) link.
+This app has already been hosted on GitHub. To run, click on [this](#https://omeizahanif.github.io) link.
 
 Enjoy!
 
 ## Authors
 
-* **Hanif Adams** - *Initial work* - [omeizahanif](https://github.com/omeizahanif)
+* **Hanif Adams** - *Initial work* - [omeizahanif](#https://github.com/omeizahanif)
 
 ## Acknowledgments
 
